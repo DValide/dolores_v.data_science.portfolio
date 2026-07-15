@@ -37,7 +37,7 @@ Every month, hours are wasted **copying numbers into Excel** or **manually prepa
     - [Supervised Machine Learning](#supervised-machine-learning)
     - [Unsupervised Machine Learning](#unsupervised-machine-learning)
 
-[Version Française](./index.md)
+[Version Française](README.md)
 
 ---
 
